@@ -2,7 +2,7 @@
 
 # Description
 
-Blind 75 is a curated list of the top 75 algorithm poroblems in LeetCode posted in the Blind platform by a Facebook Engineer. You can find further information in [this link](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
+Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted in the Blind platform by a Facebook Engineer. You can find further information in [this link](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
 
 # Problems
 
