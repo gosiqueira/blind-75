@@ -8,7 +8,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 
 **Array**
 
-- [ ]  [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x]  [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ]  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ]  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ]  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -90,7 +90,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [ ]  [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ]  [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ]  [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-- [ ]  [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x]  [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ]  [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [ ]  [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ]  [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
