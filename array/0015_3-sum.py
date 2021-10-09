@@ -30,7 +30,7 @@ from typing import List
 def threeSum(nums: List[int]) -> List[List[int]]:
     """
     Time: O(n^2)
-    Space: O(n)
+    Space: O(1)
     """
     response = []
     nums.sort()
