@@ -27,7 +27,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [ ]  [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ]  [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [ ]  [Missing Number](https://leetcode.com/problems/missing-number/)
-- [ ]  [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [x]  [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ---
 
@@ -93,7 +93,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ]  [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [ ]  [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-- [ ]  [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [x]  [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [x]  [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ]  [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ]  [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
