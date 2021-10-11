@@ -36,6 +36,10 @@ class ListNode:
 
 
 def mergeTwoLists(l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+    """
+    Time: O(n)
+    Space: O(1)
+    """
     ans = ListNode(0)
     cur = ans
     

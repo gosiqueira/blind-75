@@ -26,6 +26,8 @@ The number of nodes in the list is sz.
 Follow up: Could you do this in one pass?
 """
 
+from typing import Optional
+
 class ListNode:
     """
     Definition for singly-linked list.
@@ -34,8 +36,11 @@ class ListNode:
         self.val = val
         self.next = next
 
+    def __repr__(self):
+        return f'{self.val} -> {self.next}'
 
-def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+
+def removeNthFromEnd(head: Optional[ListNode], n: int) -> Optional[ListNode]:
     """
     Time: O(n)
     Space: O(1)

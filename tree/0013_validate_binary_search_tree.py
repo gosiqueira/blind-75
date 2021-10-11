@@ -35,6 +35,10 @@ class TreeNode:
 
 
 def checkValid(root: TreeNode, last_visited: int) -> bool:
+    """
+    Time: O(n)
+    Space: O(n)
+    """
     if root is None:
         return True
 

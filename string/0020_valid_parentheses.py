@@ -36,6 +36,10 @@ s consists of parentheses only '()[]{}'.
 """
 
 def isValid(s: str) -> bool:
+    """
+    Time: O(n)
+    Space: O(n)
+    """
     stack = []
     for i in s:
         if i == '(' or i == '[' or i == '{':

@@ -37,6 +37,10 @@ class TreeNode:
 
 
 def levelOrder(root: TreeNode) -> List[List[int]]:
+    """
+    Time: O(n)
+    Space: O(n)
+    """
     if root is None: return []
         
     queue, response = deque([root]), []

@@ -20,6 +20,10 @@ Follow up: What if the inputs contain Unicode characters? How would you adapt yo
 """
 
 def isAnagram(s: str, t: str) -> bool:
+    """
+    Time: O(n)
+    Space: O(1)
+    """
     response = True
     if len(s) != len(t):
         response = False

@@ -17,11 +17,24 @@ Constraints:
 """
 
 def getSum(a: int, b: int) -> int:
-    # TODO: Need to study and learn how to proper manipulate bits in Python
-    return 0
+    """
+    Time: O(1)
+    Space: O(1)
+    """
+    maks = 1 << 32
+    while b:
+        a, b = (a ^ b) % maks, ((a & b) << 1) % maks
+
+    return a if a < maks else ~(a % maks) + 1
 
 
 if __name__ == '__main__':
-    a = -4
-    b = 4
+    # Test 1
+    a = 1
+    b = 2
+    print(getSum(a, b))
+
+    # Test 2
+    a = 2
+    b = 3
     print(getSum(a, b))

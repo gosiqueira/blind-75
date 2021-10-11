@@ -26,6 +26,10 @@ from typing import List
 
 
 def containsDuplicate(nums: List[int]) -> bool:
+    """
+    Time: O(n)
+    Space: O(n)
+    """
     visited = set()
     
     for n in nums:

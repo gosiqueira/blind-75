@@ -34,6 +34,10 @@ At most 3 * 104 calls in total will be made to insert, search, and startsWith.
 
 
 class Trie:
+    """
+    Time: O(n)
+    Space: O(n)
+    """
     def __init__(self):
         self.trie = {}
 
