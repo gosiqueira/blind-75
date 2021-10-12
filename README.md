@@ -10,9 +10,9 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 
 - [x]  [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ]  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ]  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x]  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ]  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ]  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [x]  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ]  [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ]  [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ]  [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -35,7 +35,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 
 - [x]  [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [x]  [Coin Change](https://leetcode.com/problems/coin-change/)
-- [ ]  [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [x]  [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ]  [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ]  [Word Break Problem](https://leetcode.com/problems/word-break/)
 - [ ]  [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
@@ -43,7 +43,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [ ]  [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ]  [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ]  [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- [ ]  [Jump Game](https://leetcode.com/problems/jump-game/)
+- [x]  [Jump Game](https://leetcode.com/problems/jump-game/)
 
 **Graph**
 
@@ -97,7 +97,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ]  [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ]  [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [ ]  [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [x]  [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ]  [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [ ]  [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
