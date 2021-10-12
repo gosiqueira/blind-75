@@ -21,11 +21,13 @@ def getSum(a: int, b: int) -> int:
     Time: O(1)
     Space: O(1)
     """
-    maks = 1 << 32
-    while b:
-        a, b = (a ^ b) % maks, ((a & b) << 1) % maks
+    mask = 0b11111111111111111111111111111111
+    max_int = 0b01111111111111111111111111111111
 
-    return a if a < maks else ~(a % maks) + 1
+    while b:
+        a, b = (a ^ b) & mask, ((a & b) << 1) & mask
+
+    return a if a <= max_int else ~(a ^ mask)
 
 
 if __name__ == '__main__':
