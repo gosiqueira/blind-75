@@ -25,6 +25,10 @@ Constraints:
 """
 
 def climbStairs(n: int) -> int:
+    """
+    Time: O(n)
+    Space: O(n)
+    """
     dp = [0 for _ in range(n + 1)]
     
     dp[0] = 1
