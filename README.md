@@ -36,7 +36,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [x]  [Coin Change](https://leetcode.com/problems/coin-change/)
 - [x]  [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [ ]  [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [x]  [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ]  [Word Break Problem](https://leetcode.com/problems/word-break/)
 - [ ]  [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
 - [ ]  [House Robber](https://leetcode.com/problems/house-robber/)
@@ -80,7 +80,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 **Matrix**
 
 - [x]  [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ]  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x]  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [x]  [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [ ]  [Word Search](https://leetcode.com/problems/word-search/)
 

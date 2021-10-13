@@ -29,6 +29,10 @@ text1 and text2 consist of only lowercase English characters.
 """
 
 def longestCommonSubsequence(text1: str, text2: str) -> int:
+    """
+    Time: O(mn)
+    Space: O(mn)
+    """
     dp = [[0 for _ in range(len(text2) + 1)] for _ in range(len(text1) + 1)]
     
     for i in range(len(text1)):
