@@ -11,7 +11,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ]  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x]  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ]  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x]  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x]  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ]  [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ]  [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
@@ -73,7 +73,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ]  [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x]  [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ]  [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [x]  [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---
 
@@ -88,14 +88,14 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 
 - [ ]  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ]  [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ]  [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x]  [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ]  [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [x]  [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ]  [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [ ]  [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [x]  [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [x]  [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- [ ]  [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [x]  [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ]  [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [x]  [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ]  [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
