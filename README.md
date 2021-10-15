@@ -14,8 +14,8 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x]  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ]  [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-- [ ]  [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [ ]  [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [x]  [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x]  [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [x]  [3 Sum](https://leetcode.com/problems/3sum/)
 - [ ]  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
@@ -24,9 +24,9 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 **Binary**
 
 - [x]  [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
-- [ ]  [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ]  [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [ ]  [Missing Number](https://leetcode.com/problems/missing-number/)
+- [x]  [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [x]  [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [x]  [Missing Number](https://leetcode.com/problems/missing-number/)
 - [x]  [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ---
@@ -86,7 +86,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 
 **Tree**
 
-- [ ]  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x]  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ]  [Same Tree](https://leetcode.com/problems/same-tree/)
 - [x]  [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ]  [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
@@ -96,7 +96,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [x]  [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [x]  [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [ ]  [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [x]  [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [x]  [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ]  [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [ ]  [Word Search II](https://leetcode.com/problems/word-search-ii/)
