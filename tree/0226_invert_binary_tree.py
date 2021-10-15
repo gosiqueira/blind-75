@@ -35,6 +35,10 @@ class TreeNode:
 
 
 def invertTree(root: TreeNode) -> TreeNode:
+    """
+    Time: O(n)
+    Space: O(n)
+    """
     if root is None:
         return
     
