@@ -43,7 +43,7 @@ class TreeNode:
 
 def lowestCommonAncestor(root: TreeNode, p: TreeNode, q: TreeNode) -> TreeNode:
     """
-    Time: O(log n)
+    Time: O(n)
     Space: O(1)
     """
     while True:
