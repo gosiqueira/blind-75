@@ -13,7 +13,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x]  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x]  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ]  [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [x]  [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [x]  [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [x]  [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [x]  [3 Sum](https://leetcode.com/problems/3sum/)
@@ -71,7 +71,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [x]  [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [x]  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ]  [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [x]  [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x]  [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [x]  [Reorder List](https://leetcode.com/problems/reorder-list/)
 
@@ -87,7 +87,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 **Tree**
 
 - [x]  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ]  [Same Tree](https://leetcode.com/problems/same-tree/)
+- [x]  [Same Tree](https://leetcode.com/problems/same-tree/)
 - [x]  [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ]  [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [x]  [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
