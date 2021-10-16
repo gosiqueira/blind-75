@@ -39,8 +39,8 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ]  [Word Break Problem](https://leetcode.com/problems/word-break/)
 - [ ]  [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
-- [ ]  [House Robber](https://leetcode.com/problems/house-robber/)
-- [ ]  [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [x]  [House Robber](https://leetcode.com/problems/house-robber/)
+- [x]  [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ]  [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ]  [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [x]  [Jump Game](https://leetcode.com/problems/jump-game/)
@@ -120,6 +120,6 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 
 **Heap**
 
-- [ ]  [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [x]  [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x]  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [x]  [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
