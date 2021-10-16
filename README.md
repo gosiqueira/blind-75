@@ -38,7 +38,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [x]  [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ]  [Word Break Problem](https://leetcode.com/problems/word-break/)
-- [ ]  [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
+- [x]  [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
 - [x]  [House Robber](https://leetcode.com/problems/house-robber/)
 - [x]  [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ]  [Decode Ways](https://leetcode.com/problems/decode-ways/)
@@ -48,10 +48,10 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 **Graph**
 
 - [x]  [Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [ ]  [Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [ ]  [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [x]  [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [x]  [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [x]  [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [ ]  [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [x]  [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [ ]  [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/)
 - [ ]  [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/)
 - [ ]  [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
