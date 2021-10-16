@@ -39,6 +39,10 @@ from typing import List
 
 
 def missingNumber(nums: List[int]) -> int:
+    """
+    Time: O(n)
+    Space: O(1)
+    """
     n = len(nums) + 1
     return (n * (n - 1) // 2) - sum(nums)
 
