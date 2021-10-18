@@ -106,7 +106,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 **String**
 
 - [ ]  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ]  [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [x]  [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ]  [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x]  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ]  [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
