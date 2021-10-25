@@ -9,7 +9,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 **Array**
 
 - [x]  [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ]  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x]  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x]  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x]  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x]  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -17,7 +17,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [x]  [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [x]  [3 Sum](https://leetcode.com/problems/3sum/)
-- [ ]  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x]  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ---
 
@@ -109,11 +109,11 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ]  [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x]  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ]  [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x]  [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [x]  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x]  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x]  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [ ]  [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [x]  [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [ ]  [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ---
