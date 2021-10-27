@@ -82,7 +82,7 @@ Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted i
 - [x]  [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [x]  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [x]  [Rotate Image](https://leetcode.com/problems/rotate-image/)
-- [ ]  [Word Search](https://leetcode.com/problems/word-search/)
+- [x]  [Word Search](https://leetcode.com/problems/word-search/)
 
 **Tree**
 
